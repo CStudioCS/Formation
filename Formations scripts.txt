@@ -1,0 +1,17 @@
+Formations scripts :
+
+1 - présentation des différentes fenêtres
+2 - Expliquez le principe de la scene et du lancement de la scene
+3 - Créez un bloc avec le sprite editor (mettre bonne dimension)
+4 - Ajouter la gravité et un collider puis l'enlever et expliquer ce qu'un Component (s'amuser à changer le nom etc.) (expliquer le transform etc.)
+5 - créer un personnage ajouter des components expliquer le principe de parents (visible invisible) (s'amuser avec les hitbox)
+6 - faire bouger le personnage
+7- Ajouter un monstre et un trigger
+8 - Dés quu'il touche le monstre le perso disparait et rééapparait à la base
+9 - Mouvement des persos
+10 - Il s'amusent à faire que le monstre envoie un projectile
+11 - Faire deplacer le monstre
+11 - Ameliorer le saut
+ UI ??
+
+Pense au Apply all 
